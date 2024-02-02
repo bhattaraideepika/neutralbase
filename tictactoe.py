@@ -1,8 +1,8 @@
 from tkinter import*
 from tkinter.messagebox import showinfo
-y=""  #stores wether the button is X or O
-x=2   #say wether player1 or player2 is playing
-#these lists store the number of button in them
+y=""  #stores whether the button is X or O
+x=2   #say whether player1 or player2 is playing
+#these lists store the number of buttons in them
 player_1=[]
 player_2=[]
 
